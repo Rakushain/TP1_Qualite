@@ -21,8 +21,9 @@ class PersonTest {
 //        fail("Not yet implemented");
     }
 
-    // 3) annotation fail qui devraient être mises en oeuvre, effectué sous intelliJ
+    // 3) annotations fail qui devraient être mises en oeuvre, effectué sous intelliJ
 
+    // 4)
     @Test
     void testPerson() {
         Person person = new Person();
