@@ -1,4 +1,4 @@
-package main.isen.library;
+package isen.library.main;
 
 public class Person {
     private String name;

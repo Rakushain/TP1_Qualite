@@ -1,6 +1,6 @@
-package test.isen.library;
+package isen.library.test;
 
-import main.isen.library.Person;
+import isen.library.main.Person;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
